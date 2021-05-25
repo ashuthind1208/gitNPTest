@@ -3,3 +3,4 @@ Master branch
 This is first text
 
 C1 - This is second commit
+C2 - This is third commit
