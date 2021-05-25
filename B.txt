@@ -1,0 +1,3 @@
+This is new document on a different branch
+
+C2 - Commit on new document
