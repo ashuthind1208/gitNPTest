@@ -4,3 +4,8 @@ This is first text
 
 C1 - This is second commit
 C2 - This is third commit
+
+------
+
+
+c3 - This commit was done after downloading the file and creating a repo
